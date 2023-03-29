@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 def etl():
-    df = pd.read_csv("C:/Users/Fgonz/Documentos/Repositorios/Moviles/Streamlit/streamlit-env/df_streamlit.csv")
+    df = pd.read_csv("C:\\Users\\Usuario ASUS\\Documents\\Repositoris Github\\PROYECTOSPOTY\\Moviles\\df_streamlit.csv")
      # Define las opciones del menú
     options_etl = ["Explicación","Visualizaciones", "Herramientas"]
     # Agregar subopciones dentro de la pestaña ETL
